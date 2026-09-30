@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 306"
+  short_description: "民艺剪影：上半保留原照，下半把主体收成纸面上的民艺剪影"
+  default_prompt: "Use $xxd-panel-306 to transform my photograph following the complete canonical source brief."
